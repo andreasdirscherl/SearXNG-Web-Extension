@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
   "name": "SearXNG — Privacy Search Engine",
-  "version": "1.5",
-  "author": "Erghel",
+  "version": "1.5a",
+  "author": "Fork: kinghill, orginal by Erghel",
   "default_locale": "en",
   "description": "__MSG_extensionDescription__",
   "icons": {

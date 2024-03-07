@@ -1,4 +1,4 @@
-# SearXNG-Web-Extension (Unofficial)
+# SearXNG-Web-Extension (Unofficial) - Fork of the addon for my self-hosted SearXNG Instance
 [<img src="./firefox-add-ons.png" title="Firefox Add-ons" width="auto" height="47" />](https://addons.mozilla.org/en-US/firefox/addon/searxng-search) <p><a href=""><img src="https://img.shields.io/amo/users/searxng-search?style=flat-square" alt="Badge" /></a></p>
 
 # SearXNG
